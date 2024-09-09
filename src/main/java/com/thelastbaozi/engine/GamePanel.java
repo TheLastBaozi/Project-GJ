@@ -1,4 +1,4 @@
-package com.thelastbaozi;
+package com.thelastbaozi.engine;
 
 import javax.swing.*;
 import java.awt.*;

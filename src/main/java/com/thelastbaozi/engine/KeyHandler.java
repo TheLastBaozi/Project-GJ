@@ -1,4 +1,4 @@
-package com.thelastbaozi;
+package com.thelastbaozi.engine;
 
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;

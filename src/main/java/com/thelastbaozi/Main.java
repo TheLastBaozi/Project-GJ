@@ -1,5 +1,7 @@
 package com.thelastbaozi;
 
+import com.thelastbaozi.engine.GamePanel;
+
 import javax.swing.*;
 
 public class Main {
